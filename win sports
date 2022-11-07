@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
+http://190.27.172.231:25000/play/a0b8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS + * |HD|
+http://45.232.211.195:1080/play/a043
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="Sports",WIN SPORTS + TV * |HD|
 http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6yPlegcYwLjq40HmnXUREio/ts
 #EXTINF:-1 xui-id="723" tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="|CO| Colombia",CO: Win Sports + FHD
