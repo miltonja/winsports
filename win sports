@@ -23,3 +23,47 @@ http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o69ENK7GU-QKgK9EXVVV4S2s/ts
 http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o60eFA2y8yXrfLWOFq0I3JVk/ts
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",WIN SPORTS + TV * |HD|
 http://fortv.cc:8080/Rock/hastings420/78697
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS  * |HD|
+http://181.129.186.36:8089/play/a00q/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",CINE FAMILIAR
+http://181.129.186.36:8089/play/a00r/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",CNN Espaæol
+http://181.129.186.36:8089/play/a00m/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Cartoon Network HD
+http://181.129.186.36:8089/play/a00d/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Cine hispano
+http://181.129.186.36:8089/play/a00v/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo=",Cine infantil
+http://181.129.186.36:8089/play/a00w/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Cine premium
+http://181.129.186.36:8089/play/a00u/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",DHE HD
+http://181.129.186.36:8089/play/a009/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Discovery H&H HD
+http://181.129.186.36:8089/play/a00g/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Discovery HD
+http://181.129.186.36:8089/play/a00a/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Discovery Kids HD
+http://181.129.186.36:8089/play/a00f/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Discovery World HD
+http://181.129.186.36:8089/play/a00b/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Disney HD
+http://181.129.186.36:8089/play/a002/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",ESPN EXTRA HD
+http://181.129.186.36:8089/play/a00c/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",ID HD
+http://181.129.186.36:8089/play/a006/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo=",Musica kpop
+http://181.129.186.36:8089/play/a011/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Musica popular
+http://181.129.186.36:8089/play/a010/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo=",Musica reggeaton
+http://181.129.186.36:8089/play/a00z/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Música hits
+http://181.129.186.36:8089/play/a00y/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",RPOVINCIA TV
+http://181.129.186.36:8089/play/a014/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="",Telemundo
+http://181.129.186.36:8089/play/a008/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS
+http://181.129.186.36:8089/play/a00q/index.m3u8
