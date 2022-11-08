@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="COLOMBIA"tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS  * |HD|
+http://181.129.186.36:8089/play/a00q/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
+http://190.27.172.231:25000/play/a0b8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS + * |HD|
+http://45.232.211.195:1080/play/a043
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTTJDx63/nature-vw.png",VIASAT NATURE
+http://193.233.9.49/streams/media/Viasat_Nature/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png" ,Zona Latina
+http://45.232.211.195:1080/play/a01n
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png",CINE FAMILIAR
+http://181.129.186.36:8089/play/a00r/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network HD
+http://181.129.186.36:8089/play/a00d/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png",CINE HISPANO
+http://181.129.186.36:8089/play/a00v/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",CINE PREMIUM
+http://181.129.186.36:8089/play/a00u/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/VNrDKXRy/MI-MUSICA-K-POP.png",MUSICA KPOP 
+http://181.129.186.36:8089/play/a011/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/KvhjjbVt/MI-MUSICA-POPULAR.png",MUSICA POPULAR
+http://181.129.186.36:8089/play/a010/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/hjrgpJcB/MI-MUSICA-REGGATON.png",MUSICA REAGGAETON
+http://181.129.186.36:8089/play/a00z/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/xd9t2qL8/MI-MUSICA-HITS.png",MUSICA HITS
+http://181.129.186.36:8089/play/a00y/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",Telemundo
+http://181.129.186.36:8089/play/a008/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/dhe.png",DHE HD
+http://181.129.186.36:8089/play/a009/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H HD
+http://181.129.186.36:8089/play/a00g/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Wzp0dFSf/DISCOVERY-ESP.png",Discovery HD
+http://181.129.186.36:8089/play/a00a/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/discoveryworld.png",Discovery World HD
+http://181.129.186.36:8089/play/a00b/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/j2Pmd2d1/ESPN-EXTRA.png",ESPN EXTRA HD
+http://181.129.186.36:8089/play/a00c/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/mrH5pSH6/id.png",ID HD
+http://181.129.186.36:8089/play/a006/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/discoverykids.png",Discovery Kids HD
+http://181.129.186.36:8089/play/a00f/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/28BPF9wF/CANAL-INFANTIL.png",Cine infantil
+http://181.129.186.36:8089/play/a00w/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/disneychannel.png",Disney HD
+http://181.129.186.36:8089/play/a002/index.m3u8
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/8c9QsLTT/PROVINCIA-TV.png",RPOVINCIA TV
+http://181.129.186.36:8089/play/a014/index.m3u8
