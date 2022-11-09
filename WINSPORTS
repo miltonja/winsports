@@ -7,6 +7,8 @@ http://190.27.172.231:25000/play/a0b8
 http://tvstarlife.com:25461/Restream_latino_tv/WwNrALFrdd/1337
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",COL | WIN SPORTS PLUS
 http://tvstarlife.com:25461/Restream_latino_tv/WwNrALFrdd/26858
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/winsportsplus.png",WIN SPORTS + * |HD|
+http://45.232.211.196:1080/play/a05r
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",WIN SPORTS + * |HD|
 http://45.232.211.195:1080/play/a043
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTTJDx63/nature-vw.png",VIASAT NATURE
