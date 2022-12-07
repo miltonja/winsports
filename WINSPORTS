@@ -51,14 +51,6 @@ http://181.129.186.36:8089/play/a010/index.m3u8
 http://181.129.186.36:8089/play/a00z/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/xd9t2qL8/MI-MUSICA-HITS.png",MUSICA HITS
 http://181.129.186.36:8089/play/a00y/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",Telemundo
-http://181.129.186.36:8089/play/a008/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/dhe.png",DHE HD
-http://181.129.186.36:8089/play/a009/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/discoveryhh.png",Discovery H&H HD
-http://181.129.186.36:8089/play/a00g/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Wzp0dFSf/DISCOVERY-ESP.png",Discovery HD
-http://181.129.186.36:8089/play/a00a/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/discoveryworld.png",Discovery World HD
 http://181.129.186.36:8089/play/a00b/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/j2Pmd2d1/ESPN-EXTRA.png",ESPN EXTRA HD
