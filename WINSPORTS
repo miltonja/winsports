@@ -75,3 +75,31 @@ http://181.129.186.36:8089/play/a00w/index.m3u8
 http://181.129.186.36:8089/play/a002/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/8c9QsLTT/PROVINCIA-TV.png",RPOVINCIA TV
 http://181.129.186.36:8089/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png" group-title="DEPORTES",TVRI SPORTS INDONESIA ðŸ‡®ðŸ‡©
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/Dz7vVydt/SPOTV-logo-svg.png" group-title="DEPORTES",SPOTV ðŸ‡²ðŸ‡¾
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/Dz7vVydt/SPOTV-logo-svg.png" group-title="DEPORTES",SPOTV ðŸ‡²ðŸ‡¾
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1650553339~exp=9007200905294330~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8 *~hmac=03539604195d0d0f8533982d94a512fd5592f7a4a2ecca5608615ef2b0d3248d
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png" group-title="DEPORTES",TVRI Deportes
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331188298
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/jS7pNmyv/UFC-Network.png" group-title="DEPORTES",UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/MZM2SK9t/espn22.png" group-title="DEPORTES" ,ESPN 3 HD ðŸ‡¦ðŸ‡·
+http://200.24.132.99:8000/play/a02w
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/SK0nVQkV/univision-noticias.png" group-title="DEPORTES",UNIVISIÓN ðŸ‡¦ðŸ‡·
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1&fbclid=iwar16dxv8a6ariljbd9e-sz_mnrfgreslqjlbzeoducgra11thi3z8nggco&
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/50rtR01g/ESTADIO-TNT-SPORTS-ESP.png" group-title="DEPORTES",TNT DEPORTES ðŸ‡§ðŸ‡·
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/g0d1Dd5w/ELEVEN-SPORTS-2-MODIF.png" group-title="DEPORTES",ONCE DEPORTES 5 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/VkNtjmrv/bein-sports-french-2-modif.png"group-title="DEPORTES",beIN SPORTS EXTRA Ã' ðŸ‡ªðŸ‡¸
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/yNZKY2rF/bein-sports.png" group-title="DEPORTES",BEIN SPORT EXTRA ðŸ‡ªðŸ‡¸
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/vHs7FwfC/BEIN-SPORTS-EXTRA-1.png"group-title="DEPORTES",BEIN SPORT EXTRA ðŸ‡ªðŸ‡¸
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/vHs7FwfC/BEIN-SPORTS-EXTRA-1.png" group-title="DEPORTES",BEIN SPORT EXTRA Ã' ðŸ‡ªðŸ‡¸
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/0N9BP0dZ/VIASAT-SPORTS.png" group-title="DEPORTES",VIASAT SPORT ðŸ‡·ðŸ‡º
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
