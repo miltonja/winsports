@@ -35,8 +35,6 @@ http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o60eFA2y8yXrfLWOFq0I3JVk/ts
 http://45.232.211.195:1080/play/a01n
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png",CINE FAMILIAR
 http://181.129.186.36:8089/play/a00r/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://x.playerlatino.live/cartoonnetwork.png",Cartoon Network HD
-http://181.129.186.36:8089/play/a00d/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/nVDd6ffg/CINE-HISPANO.png",CINE HISPANO
 http://181.129.186.36:8089/play/a00v/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/C5Yyth5C/CINE-PREMIUM.png",CINE PREMIUM
