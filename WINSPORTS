@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo=https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"" group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV * |HD
+http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",CO | Win Sports +
 http://iptvtree.net:8080/1eae94e3/e22181ebb2/294455
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Deportes",WIN SPORTS TV * |HD|
