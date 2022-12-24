@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
+http://186.28.229.135:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
+http://magmas5.com:8000/malotv/gratis/131982
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="02 | WIN SPORTS FHD " tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",02 | WIN SPORTS FHD
+http://magmas5.com:8000/malotv/gratis/131983
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="03 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",03 | WIN SPORTS+ HD
+http://186.28.229.135:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="03 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",03 | WIN SPORTS+ HD
+http://magmas5.com:8000/malotv/gratis/131984
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="04 | WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/NMWrh86m/WIN-SPORTS-LILA.png" group-title="COLOMBIA -PRIMERA A⚽",04 | WIN SPORTS + FHD
+http://magmas5.com:8000/malotv/gratis/131985
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo=https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"" group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV * |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",CO | Win Sports +
