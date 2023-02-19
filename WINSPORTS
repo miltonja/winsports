@@ -1,50 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
-http://186.28.229.135:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="01 | WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",01 | WIN SPORTS HD
-http://magmas5.com:8000/malotv/gratis/131982
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="02 | WIN SPORTS FHD " tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",02 | WIN SPORTS FHD
-http://magmas5.com:8000/malotv/gratis/131983
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="03 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",03 | WIN SPORTS+ HD
-http://186.28.229.135:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="03 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",03 | WIN SPORTS+ HD
-http://magmas5.com:8000/malotv/gratis/131984
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="04 | WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/NMWrh86m/WIN-SPORTS-LILA.png" group-title="COLOMBIA -PRIMERA A⚽",04 | WIN SPORTS + FHD
-http://magmas5.com:8000/malotv/gratis/131985
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo=https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png"" group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS + TV * |HD
+
+#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="|CO| Colombia",➾ CO | Win Sports +
+http://181.78.24.67:8010/play/a05w/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/HxhCjNHN/Win-Sports-celeste.png" group-title="|CO| Colombia",➾ CO | Win Sports +
+http://181.78.12.119:16123/play/a041/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|SOLO VOZ WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://181.204.79.178:8202/play/a026
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png" group-title="COLOMBIA",➾ COL - WIN SPORTS + HD
+http://181.204.79.178:8202/play/a04m
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="🟩 | WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="COLOMBIA -PRIMERA A⚽",🟩  | WIN SPORTS+ HD
+http://181.236.192.254:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + SD" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="COLOMBIA",➾ COL - WIN SPORTS + SD
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/16723
+#EXTINF:-1 tvg-id="" tvg-name="COL - WIN SPORTS + FHD" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="COLOMBIA",➾ COL - WIN SPORTS + FHD
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/16724
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="Win Sports + FHD (CO)" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="Deportes",➾ Win Sports + FHD (CO)
+http://181.78.22.97:8000/play/a03j/index.m3u8
+#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports +
+http://190.27.253.211:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png" group-title="COLOMBIA -PRIMERA A⚽",| WIN SPORTS+ HD
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png"group-title="⚽|LAT| Deportes Latino⚽"⚽,WIN SPORTS + TV * |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",CO | Win Sports +
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/294455
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Deportes",WIN SPORTS TV * |HD|
-http://181.78.12.166:9000/play/a065
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Deportes",WIN SPORTS TV * |HD|
-http://45.232.211.195:1080/play/a043
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Deportes",WIN SPORTS TV * |HD|
-http://190.60.39.62:8000/play/a04c
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/0jVBCh05/win-sports-morado.png" group-title="|CO| Colombia",CO | Win Sports +
-http://45.232.211.195:1080/play/a05r
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/0jVBCh05/win-sports-morado.png" group-title="|CO| Colombia",CO | Win Sports +
-http://45.232.211.196:1080/play/a05r
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports -azul-celeste.png" group-title="|CO| Colombia",CO | ganar deportes +
+#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports +
+http://200.110.169.237:8202/play/a04m
+#EXTINF:-1 xui-id="723" tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png" group-title="|CO| Colombia",CO: Win Sports + FHD
+http://190.131.247.82:8000/play/a06l
+#EXTINF:-1 xui-id="723" tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://i.postimg.cc/VvT5vGVh/WINSPORTS-ROJO.png" group-title="|CO| Colombia",CO: Win Sports + FHD
 http://190.60.39.62:8000/play/a069
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/0jVBCh05/win-sports -morado.png" group-title="|CO| Colombia",CO | ganar deportes +
-http://45.232.211.195:1080/play/a05r
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports -Amarillo.png" group-title="|CO| Colombia",CO | ganar deportes +
-http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044662
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/pdsBLg7f/1200px-Win-Sports-logo-svg.png" group-title="Deportes" ,GANA DEPORTES TV * |HD|,WIN SPORTS+
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6yPlegcYwLjq40HmnXUREio/ts
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/pdsBLg7f/1200px-Win -Sports-logo-svg.png" group-title="|CO| Colombia",CO | ganar deportes +
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o66wHDsvduFdU1-T63_iFcbc/ts
-#EXTINF:-1 xui-id="725" tvg-id="WINSPRT" tvg-name="CO: Win Sports + HD" tvg-logo="https://i.postimg.cc/pdsBLg7f/1200px- Win-Sports-logo-svg.png" group-title="|CO| Colombia",CO: Win Sports + HD
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o67o3HH-8IDsf0oOb7c-OG2s/ts
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="⚽|LAT| Deportes Latino⚽",WIN SPORTS  TV * |HD|
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6zclSX_ZXq5criVlt5OUVzc/ts
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/pdsBLg7f/1200px-Win-Sports-logo-svg.png" group-title="|CO| Colombia",CO | Win Sports +
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o64I6EnMAPnixWQ5F0lx27FQ/ts
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/pdsBLg7f/1200px-Win-Sports-logo-svg.png" group-title="Deportes" ,GANA DEPORTES TV * |HD|
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o69ENK7GU-QKgK9EXVVV4S2s/ts
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="⚽|LAT| Deportes Latino⚽",WIN DEPORTES TV * |HD|
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o60eFA2y8yXrfLWOFq0I3JVk/ts
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://181.78.24.67:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|SOLO VOZ WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://181.236.192.254:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|SOLO VOZ WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
+http://190.60.37.69:8015/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
+http://190.60.37.69:8015/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
+http://181.236.192.254:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
+http://200.41.79.165:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽  | WIN SPORTS HD
+http://179.1.64.211:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
+http://iptvtree.net:8080/1eae94e3/e22181ebb2/8345
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
+http://190.131.247.82:8000/play/a05r
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
+http://181.78.12.166:9000/play/a065
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
+http://190.60.39.62:8000/play/a04c
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
+http://152.200.181.236:8000/play/a023
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png" ,Zona Latina
 http://45.232.211.195:1080/play/a01n
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/jS00fjqx/CINE-FAMILIAR.png",CINE FAMILIAR
