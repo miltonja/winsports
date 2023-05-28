@@ -5,8 +5,6 @@ http://181.78.24.67:8010/play/a05w/index.m3u8
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS+ HD " tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png" group-title="COLOMBIA -PRIMERA A⚽",| WIN SPORTS+ HD
-http://190.131.228.59:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png"group-title="⚽|LAT| Deportes Latino⚽"⚽,WIN SPORTS + TV * |HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="|CO| Colombia",CO | Win Sports +
