@@ -11,10 +11,6 @@ http://200.41.79.165:8000/play/a0js/index.m3u8
 http://190.60.39.62:8000/play/a069
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
 http://181.78.24.67:8010/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|SOLO VOZ WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
-http://181.236.192.254:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽|SOLO VOZ WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽| WIN SPORTS HD
-http://190.60.37.69:8015/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/7YtcNNC7/Win-Sports-logo.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
 http://190.60.37.69:8015/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
