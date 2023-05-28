@@ -19,10 +19,6 @@ http://181.236.192.254:8000/play/a04g/index.m3u8
 http://200.41.79.165:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽  | WIN SPORTS HD
 http://179.1.64.211:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽ | WIN SPORTS HD
-http://iptvtree.net:8080/1eae94e3/e22181ebb2/8345
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
-http://190.131.247.82:8000/play/a05r
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
 http://181.78.12.166:9000/play/a065
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.postimg.cc/Hx1Pg41X/WINSPORTS.png" group-title="Sports",➾ WIN SPORTS  TV * |HD|
