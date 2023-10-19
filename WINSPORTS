@@ -67,6 +67,43 @@ http://181.78.24.67:8010/play/a05w/index.m3u8
 http://181.78.24.67:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="⚽| WIN SPORTS HD" tvg-logo="https://i.postimg.cc/fWdq8mVT/WIN-SPORTS.png" group-title="COLOMBIA -PRIMERA A⚽",⚽  | WIN SPORTS HD
 http://179.1.64.211:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="STRONGMAN CHAMPIONS LEGUE "tvg-name="⚽|STRONGMAN CHAMPIONS LEGUE "tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png"group-title="⚽DEPORTES⚽",⚽STRONGMAN CHAMPIONS LEGUE + HD
+https://i.mjh.nz/SamsungTVPlus/ATBA3300010PU.m3u8
+#EXTINF:-1 tvg-id="RED BULL"tvg-name="⚽|RED BULL TV "tvg-logo="https://i.postimg.cc/qR5vWwPN/png-clipart-red-bull-north-america-energy-drink-red-bull-gmbh-marketing-red-bull-company-text.png"group-title="⚽DEPORTES⚽",⚽|RED BULL TV * |HD|
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="TNT SPORTS 1"tvg-name="⚽|TNT SPORTS 1"tvg-logo="https://i.postimg.cc/QNzkPhwS/TNT-SPORTS1.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 1 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS 2"tvg-name="⚽|TNT SPORTS 2"tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 2 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS 3"tvg-name="⚽|TNT SPORTS 3"tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 3 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS 4"tvg-name="⚽|TNT SPORTS 4"tvg-logo="https://i.postimg.cc/G27JbC2L/TNT-SPORTS4.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 4 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS 5"tvg-name="⚽|TNT SPORTS 5"tvg-logo="https://i.postimg.cc/PqMQFZn8/TNT-SPORTS5.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 5 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="BILLARD TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png"group-title="⚽DEPORTES⚽",⚽| BILLARD TV 
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="WORLD BILLARDS TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/j21Xqsmd/World-Billiards-logo-svg.png"group-title="⚽DEPORTES⚽",⚽|WORLD BILLARDS TV  
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
+#EXTINF:-1 tvg-id="TENNIS CHANNEL TV"tvg-name="⚽|TENNIS CHANNEL"tvg-logo="https://i.postimg.cc/mkVwf0Vx/TENNIS-CHANNEL-2.png"group-title="⚽DEPORTES⚽",⚽|TENNIS CHANNEL TV
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Матч! СТРАНАTV TV"tvg-name="⚽|Матч! СТРАНАTV"tvg-logo="https://i.postimg.cc/bJcxRCGR/EHp-K-m-RWk-AEyxmn.png"group-title="⚽DEPORTES⚽",⚽|Матч! СТРАНА TV
+http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Матч! ФУТБОЛ 1"tvg-name="⚽|Матч! ФУТБОЛ 1"tvg-logo="https://i.postimg.cc/J0pcwXyd/math0001.png"group-title="⚽DEPORTES⚽",⚽|Матч! ФУТБОЛ 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Матч! АРЕНА TV "tvg-name="⚽|Матч! АРЕНА TV "tvg-logo="https://i.postimg.cc/SK0Y0XyS/3bd44bdd02c8536d03d9df5caa3e9516.png"group-title="⚽DEPORTES⚽",⚽|Матч! АРЕНА TV 
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VIASAT SPORTS TV"tvg-name="⚽|VIASAT SPORTS TV"tvg-logo="https://i.postimg.cc/GpGM6Cbj/GOtv-Boxing-Night.png"group-title="⚽DEPORTES⚽",⚽|DEPORTES USA  TV * |HD|
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/847a7aa7-9acb-4e2b-8f4e-a2ebaaf8b4ab.m3u8
+
 #EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/50rtR01g/ESTADIO-TNT-SPORTS-ESP.png" group-title="DEPORTES",TNT DEPORTES ðŸ‡§ðŸ‡·
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/0N9BP0dZ/VIASAT-SPORTS.png" group-title="DEPORTES",VIASAT SPORT ðŸ‡·ðŸ‡º
