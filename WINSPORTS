@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (L)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/23129.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-Winsport + (T)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/59855.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (X)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/23130.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (X)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144406.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (M)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309412.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (M)(1080)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/3419.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (L)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309411.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-Winsports (T)(720)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/59856.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (L)(SD)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309413.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (M)(SD)
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/3420.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="http://offshore.lat:8080/images/6da5a7bfd6cd350ffc5c44a974741cfc.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUSV+SD
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/25155
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="http://offshore.lat:8080/images/6da5a7bfd6cd350ffc5c44a974741cfc.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS +ENCODER
