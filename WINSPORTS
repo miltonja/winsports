@@ -1,159 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (L)(1080)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/23129.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-Winsport + (T)(720)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/59855.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (X)(720)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/23130.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (X)(1080)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/144406.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports + (M)(1080)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309412.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (M)(1080)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/3419.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (L)(720)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309411.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-Winsports (T)(720)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/59856.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (L)(SD)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/309413.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL", COL-WinSports (M)(SD)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/3420.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="http://offshore.lat:8080/images/6da5a7bfd6cd350ffc5c44a974741cfc.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUSV+SD
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/25155
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="http://offshore.lat:8080/images/6da5a7bfd6cd350ffc5c44a974741cfc.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS +ENCODER
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/289739
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="http://offshore.lat:8080/images/6da5a7bfd6cd350ffc5c44a974741cfc.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS +**
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/289740 +
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="http://offshore.lat:8080/images/6da5a7bfd6cd350ffc5c44a974741cfc.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS+ ***
-http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/289741
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |feb-22
-http://190.60.32.150:2020/play/a0fw/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |feb-19
-http://190.61.55.169:2030/play/a06p/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN PLUS |DICIEMBRE 22
-http://190.60.37.126:8002/play/a03i/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |feb-11
-http://191.97.14.38:4000/play/a047/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/Wp7ywq5W/win-sports-Amarillo.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |feb-04
-http://200.6.176.21:1010/play/a03a/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |feb-04
-http://190.217.23.56:1010/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/yN7KG9vL/Win-Sports-VERDE.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 27
 http://177.222.108.82:2500/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 26
-http://186.148.183.242:5800/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/ncDdTsZ2/WIN-SPORTS-PURPURA.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 21
-http://181.78.208.254:8010/play/a050/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS |ENERO 16
-http://190.121.153.89:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/RZ79GGQ3/Win-Sports-ROJO.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS SD |ENERO 14
-http://45.71.252.67:8000/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN PLUS | NOVIEMBRE 25
-http://179.1.201.133:54986/play/a06y/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|002 WIN PLUS | NOVIEMBRE 25
-http://177.222.108.82:2500/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/Dz5Q8Cyb/Win-Sports-ORIGINAL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|002 WIN PLUS | NOVIEMBRE 17
-http://181.78.0.192:10109/play/a05r/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/Dz5Q8Cyb/Win-Sports-ORIGINAL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|004 WIN PLUS | NOVIEMBRE 17
-http://181.78.73.221:8000/play/a14u/index.m3u8 
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|002 WIN SPORTS PLUS | NOVIEMBRE 17
-http://181.78.0.192:10109/play/a05r/index.m3u8?null=0
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/3w9hQRqY/Win-Sports-AZUL.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|003 WIN SPORTS PLUS | NOVIEMBRE 17
-http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS | OCTUBRE 20
-http://186.148.163.18:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
-http://181.119.66.30:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
-http://181.205.130.194:4000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
-http://181.204.79.182:8202/play/a04m
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | ENERO25
-http://181.78.12.164:9000/play/a062
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-08
-http://186.148.183.242:5800/play/a0d7/index.m3u8
+http://181.204.79.182:8202/play/a04m
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="|CO| Colombia",➾ CO | WIN PLUS-SEPT-01
 http://177.234.247.66:8888/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/9Q5CGsT5/Win-Sports-AMARILLO.png" group-title="|CO| Colombia",➾ CO | Win + OCTUBRE 20
-http://186.148.163.18:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/5ycpq8Fs/WIN-SPORTS-TOMATE.png" group-title="|CO| Colombia",➾ CO | Win + 30 JUNIO
-http://181.205.130.194:4000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/rm6MWrWx/Win-Sports-M-s2022.png" group-title="|CO| Colombia",➾ CO | Win + ABRIL-20  Nro-2
-http://201.222.44.220:4227/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/FFPJ5KMp/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO | Win Sports + ABRIL 20
-http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO WIN PLUS |ENERO 27
 http://177.222.108.82:2500/play/a0hj/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO WIN PLUS |ENERO 21
-http://181.119.66.30:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO WIN PLUS |ENERO 21
 http://200.59.188.3:8000/play/a028
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS"tvg-logo="https://i.postimg.cc/sgnSWqvy/tv-station-win-sports-plus-2457.png"group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| CORTO WIN PLUS |ENERO 21
-http://190.61.43.118:45000/play/a024
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports FEB-11-2024
-http://191.97.14.38:4000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports DIC-22
-http://190.60.37.126:8002/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV-26
-http://181.119.66.30:8000/play/a03r/index.m3u8 
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV-25
-http://179.1.201.133:54986/play/a03m/index.m3u8 
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOV- 17
-http://177.222.108.82:2500/play/a0hj/index.m3u8 
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOVIEMBRE 17
-http://181.78.0.192:10109/play/a05w/index.m3u8 
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOVIEMBRE 17
-http://181.78.73.221:8000/play/a0wq/index.m3u8 
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports NOVIEMBRE 17
-http://181.78.0.192:10109/play/a05w/index.m3u8?null=0
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports set-08
-http://186.148.183.242:5800/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | Win Sports set-08
-http://186.148.183.242:5800/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="|CO| Colombia",➾ CO | WIN SPORTS 21 ENERO
-http://181.119.66.30:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
 http://200.59.188.3:8000/play/a00n
-#EXTINF:-1 tvg-id="WINSPORTS " tvg-name="CO | Win Sports " tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png" group-title="|CO| Colombia",➾ CO |CORTO WIN SPORTS 21 ENERO
-http://200.116.199.180:8000/play/a03q
-#EXTINF:-1 tvg-id="STRONGMAN CHAMPIONS LEGUE "tvg-name="⚽|STRONGMAN CHAMPIONS LEGUE "tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20230614T005517SQUARE.png_20230614005517.png"group-title="⚽DEPORTES⚽",⚽STRONGMAN CHAMPIONS LEGUE + HD
-https://i.mjh.nz/SamsungTVPlus/ATBA3300010PU.m3u8
 #EXTINF:-1 tvg-id="RED BULL"tvg-name="⚽|RED BULL TV "tvg-logo="https://i.postimg.cc/qR5vWwPN/png-clipart-red-bull-north-america-energy-drink-red-bull-gmbh-marketing-red-bull-company-text.png"group-title="⚽DEPORTES⚽",⚽|RED BULL TV * |HD|
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3b244f859656ba284f02"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BEIN SPORTS EXTRA"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/NfB0CLVb/PLUTO-TV-BEINSPORTS-EXTRA.png"group-title="⚽DEPORTES⚽",⚽| BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="TNT SPORTS 1"tvg-name="⚽|TNT SPORTS 1"tvg-logo="https://i.postimg.cc/QNzkPhwS/TNT-SPORTS1.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 1 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 2"tvg-name="⚽|TNT SPORTS 2"tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 2 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 3"tvg-name="⚽|TNT SPORTS 3"tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 3 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 4"tvg-name="⚽|TNT SPORTS 4"tvg-logo="https://i.postimg.cc/G27JbC2L/TNT-SPORTS4.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 4 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS 5"tvg-name="⚽|TNT SPORTS 5"tvg-logo="https://i.postimg.cc/PqMQFZn8/TNT-SPORTS5.png"group-title="⚽DEPORTES⚽",⚽|TNT SPORTS 5 BRASIL
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="BILLARD TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/029DytY4/BILLARD-TV.png"group-title="⚽DEPORTES⚽",⚽| BILLARD TV 
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="WORLD BILLARDS TV"tvg-name="⚽|BEIN SPORTS EXTRA"tvg-logo="https://i.postimg.cc/j21Xqsmd/World-Billiards-logo-svg.png"group-title="⚽DEPORTES⚽",⚽|WORLD BILLARDS TV  
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
 #EXTINF:-1 tvg-id="TENNIS CHANNEL TV"tvg-name="⚽|TENNIS CHANNEL"tvg-logo="https://i.postimg.cc/mkVwf0Vx/TENNIS-CHANNEL-2.png"group-title="⚽DEPORTES⚽",⚽|TENNIS CHANNEL TV
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Матч! СТРАНАTV TV"tvg-name="⚽|Матч! СТРАНАTV"tvg-logo="https://i.postimg.cc/bJcxRCGR/EHp-K-m-RWk-AEyxmn.png"group-title="⚽DEPORTES⚽",⚽|Матч! СТРАНА TV
-http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Матч! ФУТБОЛ 1"tvg-name="⚽|Матч! ФУТБОЛ 1"tvg-logo="https://i.postimg.cc/J0pcwXyd/math0001.png"group-title="⚽DEPORTES⚽",⚽|Матч! ФУТБОЛ 1
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Матч! АРЕНА TV "tvg-name="⚽|Матч! АРЕНА TV "tvg-logo="https://i.postimg.cc/SK0Y0XyS/3bd44bdd02c8536d03d9df5caa3e9516.png"group-title="⚽DEPORTES⚽",⚽|Матч! АРЕНА TV 
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="VIASAT SPORTS TV"tvg-name="⚽|VIASAT SPORTS TV"tvg-logo="https://i.postimg.cc/GpGM6Cbj/GOtv-Boxing-Night.png"group-title="⚽DEPORTES⚽",⚽|DEPORTES USA  TV * |HD|
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/847a7aa7-9acb-4e2b-8f4e-a2ebaaf8b4ab.m3u8
-#EXTINF:-1 tvg-id="SPOT TV""tvg-name="⚽|TNT DEPORTES ðŸ‡§ðŸ‡" tvg-logo="https://i.postimg.cc/50rtR01g/ESTADIO-TNT-SPORTS-ESP.png" group-title="⚽DEPORTES⚽",⚽|TNT DEPORTES ðŸ‡§ðŸ‡·
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="SPOT TV" tvg-logo="https://i.postimg.cc/0N9BP0dZ/VIASAT-SPORTS.png" group-title="⚽DEPORTES⚽",⚽|VIASAT SPORT ðŸ‡·ðŸ‡º
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
+
