@@ -37,7 +37,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
 #EXTINF:-1 tvg-id="TENNIS CHANNEL TV"tvg-name="⚽|TENNIS CHANNEL"tvg-logo="https://i.postimg.cc/mkVwf0Vx/TENNIS-CHANNEL-2.png"group-title="⚽DEPORTES⚽",⚽|TENNIS CHANNEL TV
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTM3U
+#EXTINF:-1 ,Unknown_1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 ,Unknown_5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 ,Unknown_6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:-1 ,Unknown_7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:-1 ,Unknown_9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2722
+#EXTINF:-1 ,Unknown_10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3435
+#EXTINF:-1 ,Unknown_11
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 ,Unknown_12
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 #EXTINF:-1 group-title="Películas" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg",Acción
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=b49ba010-094f-49d9-8f64-761ea18b7477&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
 #EXTINF:-1 group-title="Películas" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/fe99ab67-7935-40ad-aedb-010a73e70df8-cine-espanol-rakuten-tv-1628175641.jpeg",Cine Español
